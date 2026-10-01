@@ -1,5 +1,4 @@
 # Employee-retention-and-satisfaction-analysis
-Project Title: Employee Retention and Satisfaction Analysis.
 
 This HR analytics project examines the relationship between employee satisfaction, tenure, and turnover rates across various departments using SQL queries.
 
