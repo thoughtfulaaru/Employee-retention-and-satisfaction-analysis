@@ -1,2 +1,8 @@
 # Employee-retention-and-satisfaction-analysis
-This repository contains an HR analytics project analyzing employee retention and satisfaction using SQL. It includes the raw dataset, SQL queries for data analysis, and a summary of key insights regarding turnover rates across departments.
+Project Title: Employee Retention and Satisfaction Analysis.
+
+This HR analytics project examines the relationship between employee satisfaction, tenure, and turnover rates across various departments using SQL queries.
+
+Key questions addressed include identifying turnover rates by department, calculating average satisfaction scores, and analyzing how these patterns connect to employee retention.
+
+Insights reveal potential correlations between specific department cultures, satisfaction levels, and higher turnover risks.
