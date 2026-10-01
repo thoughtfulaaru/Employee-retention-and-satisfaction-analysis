@@ -1,0 +1,16 @@
+employee_id,department,tenure_years,satisfaction_score,monthly_salary_aed,performance_rating,left_company
+101,Human Resources,2.5,3.2,12000,3,0
+102,Sales,1.1,2.1,15000,2,1
+103,Engineering,4,4.5,25000,5,0
+104,Marketing,0.8,1.9,14000,2,1
+105,Sales,3.2,3,16000,3,0
+106,Engineering,1.5,2.4,22000,2,1
+107,Customer Support,5.1,4.1,9000,4,0
+108,Human Resources,0.5,2,11000,2,1
+109,Marketing,2.3,3.8,18000,4,0
+110,Engineering,3,2.2,24000,2,1
+111,Sales,4.5,4.4,17000,4,0
+112,Customer Support,1.2,2.5,9500,3,1
+113,Marketing,3.8,3.7,19000,4,0
+114,Engineering,0.6,1.8,21000,1,1
+115,Customer Support,2.8,3.9,10000,4,0
